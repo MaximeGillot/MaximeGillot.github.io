@@ -3,27 +3,27 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://www.maximegillot.github.io/home</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>yearly</changefreq>
   </url>
   <url>
     <loc>http://www.maximegillot.github.io/cv</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.maximegillot.github.io/formation/kafka</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.maximegillot.github.io/formation/nifi</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>http://www.maximegillot.github.io/projets</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>yearly</changefreq>
   </url>
 </urlset>
