@@ -1,1 +1,10 @@
-{"code_nifi":"58D272A61A9D4BB85EE5","code_kafka":"DE75AF0B541B77FA1829"}
+{
+  "nifi": {
+    "code" : "58D272A61A9D4BB85EE5",
+    "endDate" : "11/08/2021"
+  },
+  "kafka" : {
+    "code" : "DE75AF0B541B77FA1829",
+    "endDate" : "11/08/2021"
+  }
+}
