@@ -1,10 +1,10 @@
 {
   "nifi": {
-    "code" : "CE17184A4CDC26BF9AB7",
-    "endDate" : "18/09/2022"
+    "code" : "08CD479569BA06C0A57E",
+    "endDate" : "20/05/2024"
   },
   "kafka" : {
-    "code" : "71783536209C628B784B",
-    "endDate" : "18/09/2022"
+    "code" : "9BBF4A5ED6F7E67406E3",
+    "endDate" : "20/05/2024"
   }
 }
