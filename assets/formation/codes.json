@@ -1,14 +1,14 @@
 {
   "nifi": {
-    "code" : "80620970F0029653B0B0",
-    "endDate" : "13/06/2024"
+    "code" : "20C87AEC0802D455B64C",
+    "endDate" : "12/08/2024"
   },
   "kafka" : {
-    "code" : "81FC521BD6BD6A6F6950",
-    "endDate" : "13/06/2024"
+    "code" : "5624B2B018C58DB6699A",
+    "endDate" : "12/08/2024"
   },
   "spark" : {
-    "code" : "B3911F05A5A3EA687DBD",
-    "endDate" : "13/06/2024"
+    "code" : "0C07A06867F23BD9D09A",
+    "endDate" : "12/08/2024"
   }
 }

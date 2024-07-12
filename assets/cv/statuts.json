@@ -1,5 +1,4 @@
 {
-  "statut": "disponible",
-  "dt_debut": "15/03/2023",
-  "dt_fin": "01/01/2024"
+  "statut": "indisponible",
+  "next_date": "2025/01/01"
 }
