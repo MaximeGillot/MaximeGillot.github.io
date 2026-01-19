@@ -1,0 +1,7 @@
+# Robots.txt pour maximegillot.github.io
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://maximegillot.github.io/sitemap.xml
